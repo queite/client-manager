@@ -47,7 +47,7 @@ Tratamento erros assíncronos: [Express-async-errors](https://www.npmjs.com/pack
 
 Entre na pasta backend: ```cd backend``` <br>
 Para rodar testes com cobertura: ```npm coverage```<br>
-Para rodar apenas os testes: ```npm run``` <br>
+Para rodar apenas os testes: ```npm run test``` <br>
 
 <details>
 <summary><strong>Ferramentas:</strong></summary>
