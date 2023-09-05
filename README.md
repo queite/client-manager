@@ -113,7 +113,6 @@ Vá para `http://localhost:5173/` no navegador.
 
 ## Próximos passos 👣
 - Testes frontend
-- Máscara de CPF e telefone
 - Trazer dados do cliente no form na atualização
 - Melhorar tratamento de erros
 - Dockerização
